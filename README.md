@@ -1,9 +1,8 @@
-## Learn Data Structures in python with hands-on examples
+## Learn Data Structures and Algorithms in python with hands-on examples
 
-The data structures in python can be broadly classified as Primitive and Non-primitive.![data_structures%20in%20python.PNG](attachment:data_structures%20in%20python.PNG)
-                            ref:https://www.datacamp.com/community/tutorials
+The data structures in python can be broadly classified as Primitive and Non-primitive.
 
-
+![Alt text](/data_structures.PNG?raw=true)
 ### Primitive Data Structures
 These are the most primitive or the basic data structures. They are the building blocks for data manipulation and contain pure, simple values of a data. Python has four primitive variable types:
 
@@ -754,7 +753,8 @@ print (DoubleEnded)
 
 ##### Graph
 A graph in mathematics and computer science are networks consisting of nodes, also called vertices which may or may not be connected to each other. The lines or the path that connects two nodes is called an edge. If the edge has a particular direction of flow, then it is a directed graph, with the direction edge being called an arc. Else if no directions are specified, the graph is called an undirected graph.
-Social networks, molecular studies in chemistry and biology, maps, recommender system all rely on graph and graph theory principles.![graph.PNG](attachment:graph.PNG)
+Social networks, molecular studies in chemistry and biology, maps, recommender system all rely on graph and graph theory principles.
+![Alt text](/graph.PNG?raw=true)
 
 
 
@@ -1461,6 +1461,9 @@ bfs(gdict, "a")
     d
     e
     
-
+Thank you for the following amazing websites that helpe me to summarize the same
+Ref: 
+1. https://www.datacamp.com/community/tutorials
+2. https://www.tutorialspoint.com/python_data_structure
 
 
